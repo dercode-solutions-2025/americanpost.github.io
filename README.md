@@ -1,2 +1,6 @@
-# theamericanpost.github.io
-A small news site for a project I am doing at school
+# Welcome!
+Welcome to the American Post, founded earlier this year.
+
+## Recent Stories
+
+[Trump comes to Mobile!](trumpmobile.md)
